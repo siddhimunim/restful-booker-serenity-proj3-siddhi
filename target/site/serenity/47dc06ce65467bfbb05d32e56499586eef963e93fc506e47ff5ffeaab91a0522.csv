@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"CRUD test","create token","SUCCESS","2023-01-02T21:55:39.299Z[Europe/London]","0.0","3.35"
+"CRUD test","Create booking ","SUCCESS","2023-01-02T21:55:42.671Z[Europe/London]","0.0","0.49"
+"CRUD test","update booking ","FAILURE","2023-01-02T21:55:43.161Z[Europe/London]","0.0","0.67"
